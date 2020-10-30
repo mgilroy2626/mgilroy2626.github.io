@@ -3,7 +3,7 @@ layout: default
 title: OUR SERVICES
 ---
 
-# Our services designed to maximize student success include:
+# Our services for maximizing student achievement include:
 
 -
 
