@@ -3,8 +3,15 @@ layout: default
 title: CONTACT US
 ---
 
+### Interested In Working With Us? Contact Us Through:
 
-Reach out to us by email at LANYprep1@outlook.com, or through WeChat by adding MichaelGilroy
+### Email
+
+LANYprep1@outlook.com
+
+### WeChat
+
+Add our representative on WeChat, username- MichaelGilroy
 
 ### LinkedIn
 
