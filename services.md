@@ -27,10 +27,10 @@ title: OUR SERVICES
 
 -
 
-### *Programs Designed to Help with Transition of Life Abroad (American customs, etc)*
+### *Programs Designed to Help with Transitioning to Life Abroad (American customs, etc)*
 
 
-This is not a complete list of our services, we like to work with our partner schools and scholars on fitting their individual needs. Do not hesitate to reach out to us with any questions you might have.
+This is not a complete list of our services, we like to work with our partner schools and scholars to fit their individual needs. Do not hesitate to reach out to us with any questions you might have.
 
 To begin a dialogue with LANY Prep, or to inquire about our services/pricing, reach us at:
 ### LANYprep1@outlook.com
