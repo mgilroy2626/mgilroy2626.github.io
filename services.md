@@ -9,13 +9,13 @@ An overview of services offered by LANY Prep, designed to maximize student succe
 
 ### Test Preparation (TOEFL, SAT, ACT, etc.) 
 
-### English Language tutoring (Reading, writing, listening and speaking)
+### English Language Mastery and Tutoring (Reading, writing, listening and speaking)
 
 ### Subject Specific Tutoring (Math, Sciences, Humanities, and more)
 
 ### Test Preparation (TOEFL, SAT, ACT, etc.) 
 
-### Programs Designed to Help with Transition of Life Abroad (American customs, etc)
+### Programs Designed to Help with Transition of Life Abroad (American customs, values, etc)
 
 This is not a complete list of our services, we like to work with our partner schools and scholars on fitting their individual needs. Do not hesitate to reach out to us with any questions you might have.
 
