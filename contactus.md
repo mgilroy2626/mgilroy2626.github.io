@@ -15,4 +15,4 @@ Add our representative on WeChat, username- MichaelGilroy
 
 ### LinkedIn
 
-You can also contact us through our page on LinkedIn at linkedin.com/company/lany-prep
+Reach out to our company page on LinkedIn at- linkedin.com/company/lany-prep
