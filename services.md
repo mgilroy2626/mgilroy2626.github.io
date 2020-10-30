@@ -3,7 +3,7 @@ layout: default
 title: OUR SERVICES
 ---
 
-# An overview of services offered by LANY Prep, designed to maximize student success, include:
+# Our services designed to maximize student success include:
 
 -
 
