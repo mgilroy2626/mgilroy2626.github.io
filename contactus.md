@@ -3,7 +3,7 @@ layout: default
 title: CONTACT US
 ---
 
-# *Interested In LANY Prep? Contact Us Using:
+# *Contact Us Using:
 
 ### -Email
 
