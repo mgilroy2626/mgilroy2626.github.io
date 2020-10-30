@@ -3,7 +3,7 @@ layout: default
 title: CONTACT US
 ---
 
-### Interested In Working With Us? Contact Us Through:
+### Interested In Working With Us? Contact Us With:
 
 ### Email
 
