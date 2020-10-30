@@ -9,4 +9,4 @@ title: OUR MISSION
 
 ///
 
-### We help scholars reach new heights as they work towards studying abroad in America. From Los Angeles to New York, and everywhere in between.. LANY Prep has got you covered. Let's build a better future together.
+### We believe that talented and hard working students can succeed in our global economy no matter where they come from. At LANY Prep, we provide the tools needed to help scholars reach new heights as they work towards studying abroad in America. From Los Angeles to New York, and everywhere in between.. LANY Prep has got you covered. Let's build a better future together.
