@@ -3,17 +3,17 @@ layout: default
 title: OUR SERVICES
 ---
 
-### An overview of services offered by LANY Prep, designed to maximize student success, include:
+An overview of services offered by LANY Prep, designed to maximize student success, include:
 
 -
 
 ### College/University advising and application assistance
 
-///
+-
 
 ### Test Preparation (TOEFL, SAT, ACT, etc.) 
 
-///
+-
 
 ### English Language Mastery and Tutoring (Reading, writing, listening and speaking)
 
@@ -27,10 +27,10 @@ title: OUR SERVICES
 
 -
 
-### Programs Designed to Help with Transition of Life Abroad (American customs, values, etc)
+### Programs Designed to Help with Transition of Life Abroad (American customs, etc)
 
 
 This is not a complete list of our services, we like to work with our partner schools and scholars on fitting their individual needs. Do not hesitate to reach out to us with any questions you might have.
 
-To begin a dialogue with LANY Prep, or to inquire about our services, reach us at:
+To begin a dialogue with LANY Prep, or to inquire about our services/pricing, reach us at:
 ### LANYprep1@outlook.com
