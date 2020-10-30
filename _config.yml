@@ -14,8 +14,8 @@ author: United States of America
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Our Mission: 
-  Services: "[LinkedIn](linkedin.com/company/lany-prep.com)"
+  Our Mission: "https://lanyprep.com/ourmission"
+  Services: "https://lanyprep.com/services"
   
   Contact Us: "https://lanyprep.com/contactus"
 
