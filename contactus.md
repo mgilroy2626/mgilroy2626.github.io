@@ -3,16 +3,16 @@ layout: default
 title: CONTACT US
 ---
 
-### Interested In Working With Us? Contact Us:
+# *Interested In Working With Us? Contact Us Using:
 
-### Email
+### -Email
 
 LANYprep1@outlook.com
 
-### WeChat
+### -WeChat
 
 Add our representative on WeChat, username- MichaelGilroy
 
-### LinkedIn
+### -LinkedIn
 
 Reach out to our company page on LinkedIn at- linkedin.com/company/lany-prep
