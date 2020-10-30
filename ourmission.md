@@ -5,11 +5,11 @@ title: OUR MISSION
 
 # Our Values:
 
-#### At LANY Prep, we partner with exceptional International schools that want what is best for their students. Our staff of American, graduate degree holding educators provide the tools needed to help scholars reach new heights as they work towards studying abroad in America.
+#### At LANY Prep, we partner with International schools across the globe to provide personalized consulting and tutoring services for students that wish to attend University in the United States. Our staff of American, graduate degree holding educators provide the tools needed to help scholars reach new heights in their academic career.
 
 ///
 
-#### We recognize the level of dedication and work *needed* to succeed in our globalized and competitive world. It is imperative that students gain proper guidance on this journey, so that they don't get left behind. We believe that talented and hard working students can succeed in this hyper-competitive time, no matter where they come from.
+#### We recognize the level of dedication and work *needed* to succeed in our globalized and competitive world. It is imperative that students gain proper guidance throughout this journey, so that they do not get left behind. We believe that talented and hard working students can succeed in this hyper-competitive time, no matter where they come from.
 
 ///
 
