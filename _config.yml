@@ -110,7 +110,8 @@ footer-link-col: "#404040"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: "<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NBB8BXMQP"></script>
+#gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NBB8BXMQP"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -120,7 +121,7 @@ footer-link-col: "#404040"
 </script>"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: "mgilroy2626"
+#google_analytics: "G-0NBB8BXMQP"
 
 # Google Tag Manager ID
 #gtm: ""
