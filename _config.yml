@@ -103,6 +103,7 @@ footer-link-col: "#404040"
 #site-css:
 #  - "/assets/css/custom-styles.css"
 
+---
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
 # "<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -142,6 +143,8 @@ footer-link-col: "#404040"
 
 #google_analytics: "G-0NBB8BXMQP"
 
+
+---
 # Google Tag Manager ID
 #gtm: ""
 
